@@ -3,6 +3,8 @@ Comprehensive Credit Risk and Default Rate Analysis using Excel and MySQL. Dashb
 
 # Credit Risk & Default Rate Analysis
 
+![Credit Risk Dashboard](Credit_Risk_Dashboard.png)
+
 ## Project Overview
 This project performs a comprehensive Credit Risk Analysis on a dataset of **16,625 credit clients**. The main objective is to evaluate key risk drivers such as credit utilization, debt-to-income ratio, age demographics, and delinquency history using **MySQL** and **Excel**.
 
