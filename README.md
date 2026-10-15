@@ -12,8 +12,8 @@ This project performs a comprehensive Credit Risk Analysis on a dataset of **16,
 
 ## Tech Stack & Tools Used
 * **SQL (MySQL WorkBench):** Complex aggregation, Subquieries, Window Functions. 
-* **Data Processing:** MySQL Data Import Wizard, Data Type Transformations.
-* **Excel:** Pivot Tables, Dynamic KPI Cards, Cross-Tabulations.
+* **Excel:** Initial data exploration, Data cleaning, Pivot Tables,Cross-Tabulation.
+* **Power BI:** Interactive Visual dashboard, Measures.
 
 ---
 
